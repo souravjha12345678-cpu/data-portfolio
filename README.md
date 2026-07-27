@@ -9,7 +9,7 @@
 
 **Transforming Data into Actionable Insights**
 
-[🔗 GitHub Profile](https://github.com/souravjha12345678-cpu) | [📧 Email](mailto:your.email@example.com) | [💼 LinkedIn](https://linkedin.com/in/yourprofile)
+[🔗 GitHub Profile](https://github.com/souravjha12345678-cpu) | [📧 Email](mailto:souravjha12345678@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/sourav-jha-866140313/)
 
 </div>
 
@@ -159,7 +159,6 @@ NumPy        ████████████████░░░░  82%
 Power BI     █████████████████░░░  85%
 Matplotlib   ████████████████░░░░  80%
 Seaborn      ████████████████░░░░  80%
-Tableau      ███████████████░░░░░  75%
 ```
 
 ### Tools & Technologies
@@ -192,10 +191,6 @@ Power Query  ████████████████░░░░  78%
     </td>
   </tr>
   <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/tableau-software.png" width="48" height="48" alt="Tableau" />
-      <br><strong>Tableau</strong>
-    </td>
     <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/jupyter.png" width="48" height="48" alt="Jupyter" />
       <br><strong>Jupyter</strong>
@@ -231,7 +226,7 @@ Power Query  ████████████████░░░░  78%
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravjha12345678-cpu&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravjha12345678-cpu&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=souravjha12345678-cpu&theme=radical)
 
 </div>
 
@@ -244,8 +239,8 @@ I'm always interested in collaborating on data projects or discussing opportunit
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souravjha12345678-cpu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-jha-866140313/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souravjha12345678@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/souravjha12345678-cpu)
 
 </div>
