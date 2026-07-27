@@ -218,14 +218,6 @@ Power Query  ████████████████░░░░  78%
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=souravjha12345678-cpu&theme=radical)
-
-</div>
-
 ---
 
 ## 📫 Let's Connect
