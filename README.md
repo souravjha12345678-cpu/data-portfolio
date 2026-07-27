@@ -222,10 +222,6 @@ Power Query  ████████████████░░░░  78%
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-8xnw.onrender.com/api?username=souravjha12345678-cpu&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-8xnw.onrender.com/api/top-langs/?username=souravjha12345678-cpu&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=souravjha12345678-cpu&theme=radical)
 
 </div>
